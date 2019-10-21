@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Приложение викторины "</string>
+    <string name="true_button">правда</string>
+    <string name="false_button">ложный</string>
+</resources>

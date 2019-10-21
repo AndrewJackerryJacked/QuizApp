@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"クイズアプリ "</string>
+    <string name="false_button">" 偽 "</string>
+    <string name="true_button">" 本当"</string>
+</resources>
